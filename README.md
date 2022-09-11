@@ -1,0 +1,1 @@
+# swkim-first-nuxt-shopping-api
